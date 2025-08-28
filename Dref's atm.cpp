@@ -27,11 +27,11 @@ do{
 		if (select==1){
 			cout <<"Remaining Balance: "<<balance;
 		} else if (select==2){
-			cout <<"Enter Amount:"<<deposit;
+			cout <<"Enter Amount:";
 			cin >>deposit;
 			balance+=deposit;
 		} else if (select==3){
-			cout <<"Enter Amount:"<<withdraw;
+			cout <<"Enter Amount:";
 			cin >>withdraw;
 			if (withdraw>balance) {
 				cout <<"Insufficient Balance!";
