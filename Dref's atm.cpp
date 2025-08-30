@@ -47,7 +47,7 @@ do{
 			cout <<"You want another transaction? (Y/N)"<<endl;
 			cin >> transaction;
 		}while (transaction=='Y'||transaction=='y');
-		   cout <<"Thank you for using Dref's ATM";
+		   cout <<endl<<"Have a great day!";
 	} 
 	else {
 		attempt--;
