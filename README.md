@@ -14,15 +14,19 @@ Welcome to Dref's ATM
 
 Enter Pin: 123456
 
-Select Transaction:
+Transactions
 
 1. Check Balance
 2. Deposit
 3. Withdraw
 4. Exit
 
-1
+Select Transaction: 1
 
 Remaining Balance: 0
 
 You want another transaction? (Y/N)
+
+n
+
+Have a great day!
