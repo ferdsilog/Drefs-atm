@@ -22,5 +22,7 @@ Select Transaction:
 4. Exit
 
 1
+
 Remaining Balance: 0
+
 You want another transaction? (Y/N)
